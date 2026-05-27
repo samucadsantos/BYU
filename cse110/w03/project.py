@@ -1,3 +1,12 @@
+"""
+    Author: Samuel dos Santos
+    Purpose: This program prompts the user to enter their level of experience (JUNIOR, PLENO, SENIOR) and provides feedback based on their input. 
+        It also asks for additional information such as years of experience, whether they have been mentored or lead projects, and provides further guidance based on their responses.
+    Additional: The program includes input validation to ensure that the user enters valid options and handles invalid inputs gracefully.
+        It also encourages users to seek mentorship and leadership opportunities to further develop their skills and contribute to the growth of the community.
+"""
+
+
 OPTIONS = {
     "JUNIOR",
     "PLENO",
