@@ -5,8 +5,6 @@
     Additional: The program includes input validation to ensure that the user enters valid options and handles invalid inputs gracefully.
         It also encourages users to seek mentorship and leadership opportunities to further develop their skills and contribute to the growth of the community.
 """
-
-
 OPTIONS = {
     "JUNIOR",
     "PLENO",
